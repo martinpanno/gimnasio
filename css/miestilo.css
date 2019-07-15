@@ -1,0 +1,62 @@
+
+
+
+#cabecera {
+	
+	
+	width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+	left: 0; /* Posicionamos la cabecera al lado izquierdo */
+	top: 0; /* Posicionamos la cabecera pegada arriba */
+	position: fixed; /* Hacemos que la cabecera tenga una posición fija */
+	z-index: 100;
+}
+
+
+
+
+#seccion1 {
+	
+
+	padding: 10px;
+}
+
+#seccion2 {
+	padding: 10px;
+}
+
+#seccion3 {
+	
+  	padding: 10px;
+  	
+}
+
+#seccion4 {
+	background-color: #000000;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-attachment: scroll;
+  	background-size: cover;
+  	padding: 10px;
+  	margin-top: 15px;
+  	
+}
+
+
+
+#seccion5 {
+	
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-attachment: scroll;
+  	background-size: cover;
+  	padding: 10px;
+
+}
+
+
+
+#seccion6 {
+	padding: 10px;
+	
+}
+
